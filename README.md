@@ -1,6 +1,6 @@
 - 👋 Hi, I’m  BASAM AJAY KUMAR
 - 👀 I’m interested in ... Web Developer & Cloud Computing
-- 🌱 I’m currently learning ...  Web Development
+- 🌱 I’m currently learning ...  Web Development & Cloud Services
 - 📫 How to reach me ... basamajaykumar23@gmail.com
 - ⚡ Fun fact: ...I am Funny
 <!---
