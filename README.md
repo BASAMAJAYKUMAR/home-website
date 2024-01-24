@@ -1,4 +1,4 @@
-- 👋 Hi, I’m  BASAMAJAYKUMAR
+- 👋 Hi, I’m  BASAM AJAY KUMAR
 - 👀 I’m interested in ... Web Developer & Cloud Computing
 - 🌱 I’m currently learning ...  Web Development
 - 📫 How to reach me ... basamajaykumar23@gmail.com
