@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=basamajaykumar" alt="basamajaykumar" /></a> </p>
 
-- 🔭 I’m currently working on **MicroDen**
+- 🔭 I’m currently working on **MicroDen Software Solutions**
 
 - 🌱 I’m currently learning **Node.js and My SQl**
 
